@@ -41,7 +41,7 @@ Name	                                                                        |  
 <a href="https://github.com/batestin1/pyPaintWall">  pyPaintWall   			</a>| ```pip install pyPaintWall```				  | <p>This library allows you to immediately calculate the area of a wall (width and height) and returns the liters of paint needed to paint it. knowing that each liter of paint paints an area of 2 square meters. Very useful for home! </p>|
 <a href="https://github.com/batestin1/pyTTF"> pyTTF 						</a>| ``` pip install pyTTF```					  | <p>pyTTF explicitly means: PYTHON TEMPLATE TERRAFORM. This library is just an invocation for a TerraForm template project. When invoking its main function. In your current directory it will create a folder called "infra". Inside this folder will contain the necessary files to carry out your infrastructure project such as main.tf and variable.tf In addition to these there is also a destroy.yml and a resource_to_delete.json.. </p>|
 
->> <h3> What is ```pypi.org?``` </h3>
+>> <h3> What is <b> pypi.org</b>? </h3>
 -------------------------
 
 <p> O PyPI (Python Package Index) é um repositório online de pacotes de software para a linguagem de programação Python. O PyPI.org é o site que hospeda o repositório e fornece uma interface de usuário para pesquisar, baixar e compartilhar pacotes Python.
